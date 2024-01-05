@@ -1,2 +1,5 @@
 # Elektor-Espressif-Special
-Elektor Mag: Guest-Edited by Espressif
+Elektor Mag: Guest-Edited by Espressif  
+---- 
+**Elektor sais:**  
+"Following the successful publication of both the SparkFun (2021) and the Arduino (2022) guest-edited editions of Elektor Mag, we are delighted to welcome Espressif as our 2023 guest editor. With popular solutions such as the ESP8266 and ESP32, the Espressif team has consistently empowered pro engineers and creative makers to design innovative electronic systems. What is included in this guest edition of Elektor Mag? The magazine is packed with a wide range of content — from DIY projects to interviews to in-depth engineering tutorials — on topics including ESP32 with OpenDTU for balcony power plants, embedded development with Rust, ESP32 and ChatGPT, facial recognition with the ESP32-S3-EYE, handy engineering insights, and more. We are confident that the magazine — along with the free Bonus Edition — will generate months of innovation and many new electronics projects and applications. Make sure you post all of your Espressif-based projects on the <a href="https://www.elektormagazine.com/labs">Elektor Labs platform</a>. We look forward to seeing your designs!"
